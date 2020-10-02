@@ -1,0 +1,20 @@
+{
+    "name": "jharev/mvcore",
+    "autoload":{
+        "psr-4":{
+            "MVCore\\":"app/"
+        }
+    },
+    "description": "Esqueleto de proyecto MVC",
+    "type": "project",
+    "require": {
+        "illuminate/database": "^7.13"
+    },
+    "authors": [
+        {
+            "name": "Jhonatan",
+            "email": "jhonatan98181@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
