@@ -12,7 +12,7 @@ class HomeController extends Controller
     function index()
     {
 
-        $this->view("indexView", []);
+        $this->view("indexView", ["urlVars"=>$this->urlVars]);
     }
 }
 
