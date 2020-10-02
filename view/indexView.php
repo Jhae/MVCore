@@ -14,7 +14,7 @@
 		}
 	</style>
 <h1>MVCore</h1>
-<h2></h2>
+<h2>vista: view/indexView.php</h2>
 <h2>Variables de URL</h2>
 	<table>
 		<tr>
