@@ -1,6 +1,10 @@
 <?php
 //Ruta de prueba "MVCore/var1/mama/var2/papa?param=familia"
-
+/*
+* Developed 
+*   by 
+*     Jhonatan Aronés Evanán.
+*/
 use MVCore\Http\Router;
 
 require_once 'vendor/autoload.php';
