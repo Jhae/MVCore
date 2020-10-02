@@ -1,4 +1,5 @@
 <?php
+//Ruta de prueba "MVCore/var1/mama/var2/papa"
 
 use MVCore\Http\Router;
 
